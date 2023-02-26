@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<squad nick="R.F.P.Wolves">
+    <name>R.F.Partizans</name>
+    <email>N/A</email>
+    <web>N/A</web>
+    <title>N/A</title>
+    <member id="76561198039754843" nick="[RFP]Strannik">
+        <name>N/A</name>
+        <email>N/A</email>
+        <icq>N/A</icq>
+		<picture>RFP_logo_strannik.png</picture>
+        <remark>Soldier</remark>
+    </member>
+    <member id="76561198067665358" nick="[RFP]Hybrid">
+        <name>N/A</name>
+        <email>N/A</email>
+        <icq>N/A</icq>
+		<picture>RFP_logo_Hybrid.png</picture>
+        <remark>Surveillance Specialist</remark>
+    </member>
+</squad>
